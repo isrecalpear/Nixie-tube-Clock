@@ -3,4 +3,6 @@
 这个项目的话将会是一座屎山，但还是厚着脸皮准备开源，能用就行了嘛  
 <img src="https://github.com/isrecalpear/Nixie-tube-Clock/blob/main/Pic/ItWorks.jpg" width="25%" alt="又不是不能用">  
 ~~本质就是复制粘贴罢了~~  
-慢慢做吧
+慢慢做吧  
+## License
+<a href="https://mit-license.org/">The MIT License (MIT)</a>
